@@ -1,19 +1,16 @@
 public class MetroStation{
-
-	public static void line(){
-
-		System.out.println("metrostation line");
-
-
-	}
-
-		public static void ticket(){
-
-		System.out.println("metrostation ticket");
-
-
-	}
-
-
-
+public static void ticket(int price)
+{
+	int price=25;
+if(price=25)
+{
+System.out.println("banashakari to btm price is 25"+price);
+}
+else{
+System.out.println("price is 50");
+}
+}
+public static void ticket(int price){
+	System.out.println("price is"+price);
+}
 }
