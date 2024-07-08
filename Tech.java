@@ -1,4 +1,4 @@
-public class Spotify{
+public class Tech{
 public static void method1()//without return type and without arguments
 
 {
